@@ -9,6 +9,7 @@ Get the necessary files from the tutorial. Its a 35.5MB zip file with the SHA256
 Unzip the contents.
 
 ### Run script
+Connect the tolino via USB and power it off. Afterwards, hold the power and the lower button on the right side of the device.
 Run `root_tolino_vision_6.sh`
 
 ### Wait
